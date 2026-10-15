@@ -1,3 +1,5 @@
+# Repaso POO: Banca Electronica
+
 ## Introducción ##
 
 > Para reforzar la teoría vista hasta el momento durante el curso, realizaremos una serie de ejercicios que buscan que utilicemos los conocimientos aprendidos sobre programación orientada a objetos
@@ -29,7 +31,7 @@
 
 5. Coloca el método main en la clase PruebaCuenta, crea dentro del main una cuenta realizando algunos movimientos, posteriormente imprime los datos de la cuenta incluyendo el saldo final.
 
-![UML1](./imagenes/Imagen-07-01.png)
+![UML1](./Imagenes/Imagen-07-01.png)
 
 6. Define una nueva clase llamada CuentaHabiente en el paquete modelo con los atributos nombre, domicilio, teléfono y un atributo cuentas de tipo ArrayList<Cuenta>.
 
@@ -40,13 +42,13 @@
 * eliminarCuenta(numero)
 * listarCuentas(). 
 
-![UML2](./imagenes/Imagen-07-02.png)
+![UML2](./Imagenes/Imagen-07-02.png)
 
 8. Sobre la clase PruebaCuenta, crea un objeto CuentaHabiente y una o más cuentas para el mismo cuenta habiente. Prueba cada uno de los métodos definidos en CuentaHabiente.
 
 9. Modifica la clase Cuenta creada anteriormente encapsulando todos los atributos marcándolos como privados y definiendo sus respectivos métodos públicos (los que ya existían más los métodos set y get por cada uno).
 
-![UML3](./imagenes/Imagen-07-03.png)
+![UML3](./Imagenes/Imagen-07-03.png)
 
 10. Modifica el método retiro, deberás validar que la cantidad retirada no exceda el saldo, en caso contrario deberás imprimir la leyenda “saldo insuficiente”.
 
@@ -76,7 +78,7 @@
 * Sobre escribe el método imprimirCuenta para imprimir los datos de la cuenta de inversión con los intereses a ganar en el periodo. 
 * Para proteger la cuenta de inversión para que no se realicen depósitos o retiros durante el periodo de 6 meses, tendremos que agregar un nuevo campo, fecha de apertura (String), dicho campo de momento no haremos todavía nada con el, pero en siguientes capítulos lo modificaremos para usarlo en los métodos retiro y deposito sobre escritos.
 
-![UML4](./imagenes/Imagen-07-04.png)
+![UML4](./Imagenes/Imagen-07-04.png)
 
 
 21. Define en la clase PruebaCuenta una cuenta de inversión y de cheques, aplícales los métodos definidos y comprueba que se comportan de la manera esperada.
