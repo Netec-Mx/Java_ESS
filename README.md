@@ -19,7 +19,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - **Descripción**: Actividad práctica correspondiente al capítulo 3 del curso Java Essentials.
 - ⏱️ **Duración estimada**: 20 min 
 
-## Capítulo 3
+## Capítulo 4
 
 ### [Práctica: Repaso arreglos y ciclos ](Capitulo4.md)
 
