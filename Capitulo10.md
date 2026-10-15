@@ -1,3 +1,5 @@
+# Repaso POO 2: Banca Electronica extendida
+
 ## Introducción ##
 
 > Para reforzar la teoría vista hasta el momento durante el curso, realizaremos una serie de ejercicios que buscan que utilicemos los conocimientos aprendidos sobre Interfaces, el API de fechas de Java y Excepciones.
@@ -33,7 +35,7 @@ y los siguientes métodos:
 * imprimirClientes()
 * toString()
 
-![UML1](./imagenes/Imagen-12-01.png)
+![UML1](./Imagenes/Imagen-12-01.png)
 
 4. Implementa la interface ManejaClientes.
 
@@ -55,7 +57,7 @@ y los siguientes métodos:
 
 13. Crea otra nueva excepción, nómbrala “OperacionInvalidaException.” Modifica el método retiro de la clase CuentaInversion para que, cuando no haya pasado el tiempo obligatorio de 6 meses, lance la excepción para indicar que aún no se pueden realizar retiros.
 
-![UML2](./imagenes/Imagen-12-02.png)
+![UML2](./Imagenes/Imagen-12-02.png)
 
 14. Usa la cláusula throws para dejar salir de cada método la excepción. 
 
