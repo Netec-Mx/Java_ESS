@@ -1,4 +1,4 @@
-### Repaso estructuras de control
+# Repaso estructuras de control
 
 ## Introducción ##
 
