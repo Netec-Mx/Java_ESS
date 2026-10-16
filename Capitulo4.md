@@ -113,3 +113,23 @@ comprar el dia 2 (precio 1) y vender el dia 6 (precio 8) para obtener una
 ganancia de 7
 
 ![Acciones](./Imagenes/Imagen-04-08.png)
+
+## Resultados esperados ##
+
+![Menu resuelto](./Imagenes/Resultado-04-00.png)
+
+![Vacaciones resuelto](./Imagenes/Resultado-04-01.png)
+
+![List resuelto](./Imagenes/Resultado-04-02.png)
+
+![Primos resuelto](./Imagenes/Resultado-04-03.png)
+
+![Factorial resuelto](./Imagenes/Resultado-04-04.png)
+
+![Estacionamiento resuelto](./Imagenes/Resultado-04-05.png)
+
+![Palindromo resuelto](./Imagenes/Resultado-04-06.png)
+
+![Anagrama resuelto](./Imagenes/Resultado-04-07.png)
+
+![Bolsa resuelto](./Imagenes/Resultado-04-08.png)

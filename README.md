@@ -17,14 +17,14 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 ### [Práctica: Repaso estructuras de control](Capitulo3.md)
 
 - **Descripción**: Actividad práctica correspondiente al capítulo 3 del curso Java Essentials.
-- ⏱️ **Duración estimada**: 20 min 
+- ⏱️ **Duración estimada**: 30 min 
 
 ## Capítulo 4
 
 ### [Práctica: Repaso arreglos y ciclos ](Capitulo4.md)
 
 - **Descripción**: Actividad práctica correspondiente al capítulo 4 del curso Java Essentials.
-- ⏱️ **Duración estimada**: 30 min 
+- ⏱️ **Duración estimada**: 50 min 
 
 ## Capítulo 7
 
@@ -38,7 +38,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 ### [Práctica: Repaso POO 2: Banca Electronica extendida](Capitulo10.md)
 
 - **Descripción**: Actividad práctica correspondiente al capítulo 10 del curso Java Essentials.
-- ⏱️ **Duración estimada**: 30 min
+- ⏱️ **Duración estimada**: 40 min
 
 ---
 
