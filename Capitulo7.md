@@ -90,3 +90,9 @@
 Cuando compiles el código, ¿qué sucederá con las subclases?
 
 24. Implementa el método descripcionDeLaCuenta() en cada subclase para que despliegue un mensaje adecuado al tipo de cada cuenta, prueba los métodos.
+
+## Resultado Esperado ##
+
+
+![R1](./imagenes/Resultado-07-00.png)
+![R1](./imagenes/Resultado-07-01.png)

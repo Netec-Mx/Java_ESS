@@ -62,3 +62,7 @@ y los siguientes métodos:
 14. Usa la cláusula throws para dejar salir de cada método la excepción. 
 
 15. En la clase donde tenemos el main, escribe el código necesario para probar que las excepciones creadas en el laboratorio anterior funcionan de manera correcta. 
+
+## Resultado esperado ##
+
+![UML4](./imagenes/Resultado-10-00.png)
