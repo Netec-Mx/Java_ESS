@@ -65,4 +65,4 @@ y los siguientes métodos:
 
 ## Resultado esperado ##
 
-![UML4](./imagenes/Resultado-10-00.png)
+![UML4](./Imagenes/Resultado-10-00.png)
