@@ -94,5 +94,5 @@ Cuando compiles el código, ¿qué sucederá con las subclases?
 ## Resultado Esperado ##
 
 
-![R1](./imagenes/Resultado-07-00.png)
-![R1](./imagenes/Resultado-07-01.png)
+![R1](./Imagenes/Resultado-07-00.png)
+![R1](./Imagenes/Resultado-07-01.png)
